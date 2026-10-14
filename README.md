@@ -22,4 +22,4 @@ I have successfully completed training at **MyComputerCareer**, gaining hands-on
 
 ---
 
->  **Certificate Verification:** You can view my verified certificate or credentials [here](YOUR_VERIFICATION_OR_IMAGE_LINK_HERE).
+>  **Certificate Verification:** You can view my verified certificate or credentials [here](https://github.com/mycc-russ/mycc-certificates/blob/main/Net%20I%20Cert%208.2026%20173.pdf).
